@@ -1,0 +1,21 @@
+{
+  "name": "testboosta",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Molinska Anastasiia"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
